@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.example.network_change_service</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/macbook/scripts/network_change_cron/index.sh</string>
+    </array>
+    <key>RunAtLoad</key>
+    <true/>
+    <!-- Additional configuration keys can be added here -->
+</dict>
+</plist>
